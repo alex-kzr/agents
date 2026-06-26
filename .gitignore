@@ -1,0 +1,17 @@
+.stfolder/
+/skills/.hub
+/skills/.curator_backups
+/skills/.bundled_manifest
+/skills/.curator_state
+/skills/.system
+/skills/.usage.json
+/skills/.usage.json.lock
+/skills/projects/
+.idea/
+.prompts/
+.claude/
+*.iml
+*.ipr
+*.iws
+graphify-graph/
+/skills/projects/
