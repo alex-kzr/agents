@@ -116,8 +116,8 @@ Update `src/handlers.py` to load history before `ask_llm()` and save the respons
 # Kanban Board
 
 ## To Do
-- <Task ID>: <Task Name>
-- <Task ID>: <Task Name>
+- [<Task ID>: <Task Name>](plans/tasks/<task-id>_<task-short-name>.md)
+- [<Task ID>: <Task Name>](plans/tasks/<task-id>_<task-short-name>.md)
 
 ## In Progress
 - (empty)
@@ -126,7 +126,7 @@ Update `src/handlers.py` to load history before `ask_llm()` and save the respons
 - (empty)
 ```
 
-All tasks start in **To Do** in execution order.
+All tasks start in **To Do** in execution order. Every entry must be a relative link to the task file using the format `[<Task ID>: <Task Name>](plans/tasks/<task-id>_<task-short-name>.md)`.
 
 ## Task File Template
 
