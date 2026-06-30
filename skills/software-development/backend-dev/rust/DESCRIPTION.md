@@ -10,6 +10,8 @@ Skills for Rust backend development, analysis, and tooling.
 
 | Type | Path | Description | When to open |
 |---|---|---|---|
+| Skill | [async-patterns/](async-patterns/SKILL.md) | Tokio async patterns: concurrent tasks, channels, shutdown, async traits, streams, resource management. | Open when implementing async Rust code or debugging async/await behavior. |
+| Skill | [best-practices-apollo/](best-practices-apollo/SKILL.md) | Apollo GraphQL's Rust best practices handbook — style, linting, performance, errors, testing, generics, type-state, docs, pointers. | Open when writing or reviewing Rust code for idiom correctness and quality. |
 | Skill | [rust-async-patterns/](rust-async-patterns/SKILL.md) | Rust async patterns with Tokio, async composition, and concurrency design. | Open when designing or debugging async Rust code. |
 | Skill | [rust-best-practices/](rust-best-practices/SKILL.md) | Idiomatic Rust best practices for structure, APIs, and maintainability. | Open when reviewing Rust code for quality and design. |
 | Skill | [rust-call-graph/](rust-call-graph/SKILL.md) | Visualize Rust function call graphs using LSP. | Open when mapping call flow or tracing execution paths. |
